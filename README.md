@@ -100,19 +100,13 @@ Este proyecto es un ejemplo de cómo crear una API GraphQL simple con Django que
 
 ## Uso
 
-1. Realiza las migraciones y crea la base de datos:
-
-    ```sh
-    python manage.py migrate
-    ```
-
-2. Ejecuta el servidor de desarrollo de Django:
+1. Ejecuta el servidor de desarrollo de Django:
 
     ```sh
     python manage.py runserver
     ```
 
-3. Prueba las consultas GraphQL en tu navegador web o con una herramienta como GraphQL.
+2. Prueba las consultas GraphQL en tu navegador web o con una herramienta como GraphQL.
 
    - Consultar usuarios masculinos:
 
